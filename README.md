@@ -1,3 +1,4 @@
+Completed this course! 
 
 # :wave: The Basics of GitHub 
 
