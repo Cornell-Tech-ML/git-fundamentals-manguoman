@@ -1,5 +1,3 @@
-# Completed Review
-
 
 # :wave: The Basics of GitHub 
 
